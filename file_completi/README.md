@@ -1,6 +1,6 @@
 Qui sono presenti i file completi, con i quali ho terminato ciascun video della playlist.
 
-Per scaricare i file con le userform vuote (con i controlli ma senza codice), aprite il folder "Userform vuote".
+Se invece cercate i file con le userform vuote (con i controlli ma senza codice), aprite il folder "Userform vuote".
 
 Questa è la corrispondenza tra video e file di riferimento:
 
