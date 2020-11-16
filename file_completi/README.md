@@ -2,7 +2,7 @@ Qui sono presenti i file completi, con i quali ho terminato ciascun video della 
 
 Questa è la corrispondenza tra video e file di riferimento:
 
-video 79 -> file Gestionale v0.01.xlsm     <-------- ultimo file caricato su Youtube
+video 79 -> file Gestionale v0.01.xlsm     <-------- ultimo video caricato su Youtube
 
 video 80 -> file Gestionale v0.01.xlsm
 
