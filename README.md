@@ -4,7 +4,7 @@ Nella playlist "Corso VBA Excel" ho sviluppato, a partire dal video 78, un proge
 
 In questo repository di GitHub carico i file relativi ai video di quest'ultima parte di playlist, secondo la numerazione che trovate qui sotto.
 
-Non rivendico alcun diritto d'autore sui file, potete scaricarli, modificarli, distribuirli, regalarli, venderli senza farmelo sapere.
+Non rivendico alcun diritto d'autore sui file: potete scaricarli, modificarli, distribuirli, regalarli, venderli senza farmelo sapere.
 
 ***** NON MI ASSUMO ALCUNA RESPONSABILITA' SUGLI ERRORI CHE SICURAMENTE SONO ANCORA PRESENTI NEL PROGETTO *****
 
