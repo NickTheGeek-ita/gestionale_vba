@@ -9,6 +9,6 @@ Non rivendico alcun diritto d'autore sui file: potete scaricarli, modificarli, d
 *******************************************************************************************************
                                                                                                      
 NON MI ASSUMO ALCUNA RESPONSABILITA' SUGLI ERRORI CHE SICURAMENTE SONO ANCORA PRESENTI NEL PROGETTO,
-E SULLE EVENTUALI CONSEGUENZE CHE DA QUESTI POSSONO NASCERE                                         
+E SULLE EVENTUALI CONSEGUENZE CHE DA QUESTI POSSONO NASCERE.                                         
                                                                                                     
 *******************************************************************************************************
