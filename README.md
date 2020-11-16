@@ -6,4 +6,9 @@ In questo repository di GitHub carico i file relativi ai video di quest'ultima p
 
 Non rivendico alcun diritto d'autore sui file: potete scaricarli, modificarli, distribuirli, regalarli, venderli senza farmelo sapere.
 
-***** NON MI ASSUMO ALCUNA RESPONSABILITA' SUGLI ERRORI CHE SICURAMENTE SONO ANCORA PRESENTI NEL PROGETTO *****
+*******************************************************************************************************
+*                                                                                                     *
+* NON MI ASSUMO ALCUNA RESPONSABILITA' SUGLI ERRORI CHE SICURAMENTE SONO ANCORA PRESENTI NEL PROGETTO,*
+* E SULLE EVENTUALI CONSEGUENZE CHE DA QUESTI POSSONO NASCERE                                         *
+*                                                                                                     *
+*******************************************************************************************************
