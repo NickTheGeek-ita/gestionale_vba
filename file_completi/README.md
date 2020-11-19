@@ -1,8 +1,10 @@
-In questo folder sono presenti i file completi con i quali ho terminato ciascun video della playlist; i file saranno caricati su GitHub man mano che pubblicherò il relativo video. Se invece cercate i file con le userform vuote (con i controlli ma senza codice), aprite il folder "userform_vuote".
+In questo folder sono presenti i file completi con i quali ho terminato ciascun video della playlist; i file saranno caricati su GitHub man mano che pubblicherò il relativo video.
+
+Se invece cercate i file con le userform vuote (con i controlli ma senza codice), aprite il folder "userform_vuote".
 
 Questa è la corrispondenza tra video e file di riferimento:
 
-video 79 -> file Gestionale v0.01.xlsm     <-------- ultimo video caricato su Youtube
+video 79 -> file Gestionale v0.01.xlsm     <-------- ultimo video pubblicato su Youtube
 
 video 80 -> file Gestionale v0.02.xlsm
 
