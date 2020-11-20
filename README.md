@@ -2,7 +2,9 @@ Nel mio canale Youtube "NickTheGeek" https://www.youtube.com/channel/UC0dfk64URV
 
 Nella playlist "Corso VBA Excel" ho sviluppato, a partire dal video 78, un progetto che ho chiamato "Gestionale" per simulare un'operatività di base su archivio clienti, magazzino e ordini.
 
-In questo repository di GitHub carico i file relativi ai video di quest'ultima parte di playlist.
+In questo repository di GitHub sono presenti due cartelle:
+  - file_completi: qui trovate i file xlsm relativi ai video del Gestionale
+  - userform_vuote: qui trovate un unico file xlsm con tutte le userform e tutti i controlli che ho creato, ma senza alcun codice
 
 Non rivendico alcun diritto d'autore sui file: potete scaricarli, modificarli, distribuirli, regalarli, venderli senza farmelo sapere (licenza CC0 1.0 Universal)
 
