@@ -1,4 +1,4 @@
-In questo folder sono presenti i file completi con i quali ho terminato ciascun video della playlist; i file saranno caricati su GitHub man mano che pubblicherò il relativo video.
+Nella cartella "file" sono presenti i file completi con i quali ho terminato ciascun video della playlist; i file saranno caricati su GitHub man mano che pubblicherò il relativo video.
 Se invece cercate i file con le userform vuote (con i controlli ma senza codice), aprite il folder "userform_vuote".
 
 I file si riferiscono alla versione finale del video indicato nella lista sottostante; se volete il file relativo all'inizio del relativo video, scaricate il file precedente.
