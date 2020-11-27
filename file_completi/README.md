@@ -5,9 +5,9 @@ I file si riferiscono alla versione finale del video indicato nella lista sottos
 
 Questa è la corrispondenza tra video e file di riferimento:
 
-video 79 -> file Gestionale v0.01.xlsm     <-------- ultimo video pubblicato su Youtube
+video 79 -> file Gestionale v0.01.xlsm     
 
-video 80 -> file Gestionale v0.02.xlsm
+video 80 -> file Gestionale v0.02.xlsm     <-------- ultimo video pubblicato su Youtube
 
 video 81 -> file Gestionale v0.03.xlsm
 
