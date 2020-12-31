@@ -23,9 +23,9 @@ video 86 -> file Gestionale v0.08.xlsm
 
 video 87 -> file Gestionale v0.09.xlsm   
 
-video 88 -> file Gestionale v0.09.xlsm   <-------- ultimo video pubblicato su Youtube
+video 88 -> file Gestionale v0.09.xlsm   
 
-video 89 -> file Gestionale v0.10.xlsm
+video 89 -> file Gestionale v0.10.xlsm       <-------- ultimo video pubblicato su Youtube
 
 video 90 -> file Gestionale v0.11.xlsm
 
