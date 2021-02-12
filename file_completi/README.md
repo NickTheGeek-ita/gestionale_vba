@@ -49,9 +49,9 @@ video 99 -> file Gestionale v0.20.xlsm
 
 video 100 -> file Gestionale v0.21.xlsm                  
 
-video 101 -> file Gestionale v0.22.xlsm           <-------- ultimo video pubblicato su Youtube
+video 101 -> file Gestionale v0.22.xlsm           
 
-video 102 -> file Gestionale v0.23.xlsm
+video 102 -> file Gestionale v0.23.xlsm                       <-------- ultimo video pubblicato su Youtube
 
 video 103 -> file Gestionale v0.24.xlsm
 
