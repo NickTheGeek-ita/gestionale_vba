@@ -73,9 +73,9 @@ video 111 -> file Gestionale v0.32.xlsm
 
 video 112 -> file Gestionale v0.33.xlsm                    
 
-video 113 -> file Gestionale v0.34.xlsm <-------- ultimo video pubblicato su Youtube
+video 113 -> file Gestionale v0.34.xlsm 
 
-video 114 -> file Gestionale v0.35.xlsm
+video 114 -> file Gestionale v0.35.xlsm    <-------- ultimo video pubblicato su Youtube
 
 video 115 -> file Gestionale v0.36.xlsm
 
