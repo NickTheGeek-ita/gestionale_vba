@@ -6,7 +6,7 @@ In questo repository di GitHub sono presenti due cartelle:
   - file_completi: qui trovate i file xlsm relativi ai video del Gestionale
   - userform_vuote: qui trovate un unico file xlsm con tutte le userform e tutti i controlli che ho creato, ma senza alcun codice
 
-Non rivendico alcun diritto d'autore sui file: potete scaricarli, modificarli, distribuirli, regalarli, venderli senza farmelo sapere (licenza CC0 1.0 Universal)
+Non rivendico alcun diritto d'autore sui file: potete scaricarli, modificarli, distribuirli, regalarli, venderli senza farmelo sapere (licenza CC0 1.0 Universal).
 
 *******************************************************************************************************
                                                                                                      
