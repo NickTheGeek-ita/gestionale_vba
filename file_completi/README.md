@@ -101,8 +101,8 @@ video 125 -> file Gestionale v0.46.xlsm
 
 video 126 -> file Gestionale v0.47.xlsm                                        
 
-video 127 -> file Gestionale v0.48.xlsm                             <-------- ultimo video pubblicato su Youtube
+video 127 -> file Gestionale v0.48.xlsm                             
 
-video 128 -> file Gestionale v0.49.xlsm
+video 128 -> file Gestionale v0.49.xlsm              <-------- ultimo video pubblicato su Youtube
 
 video 129 -> file Gestionale v0.50.xlsm e file Gestionale v1.00.xlsm 
